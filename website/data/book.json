@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A gap year student on a budget chooses the cheapest bed in an ancient colonial building, only to be crushed when centuries of deferred maintenance finally catch up with the structure during a tropical storm.",
     "long": ""
   },
   "death_type": "Structural Collapse",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She wanted an authentic experience. The building delivered - authentically lethal."
 }
