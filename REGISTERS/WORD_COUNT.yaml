@@ -1,0 +1,128 @@
+# Word Count Register
+# Updated automatically by Writer Agent
+
+book:
+  number: "003"
+  slug: "structural-collapse"
+  target: 250000
+
+daily_log: []
+  # - date: "2026-01-06"
+  #   words_written: 5200
+  #   chapter: 1
+  #   cumulative: 5200
+
+weekly_summary: []
+  # - week: 1
+  #   start_date: "2026-01-06"
+  #   words_written: 35000
+  #   chapters_completed: 7
+  #   cumulative: 35000
+
+chapter_breakdown:
+  - chapter: 1
+    word_count: 4007
+    status: "complete"
+  - chapter: 2
+    word_count: 4354
+    status: "complete"
+  - chapter: 3
+    word_count: 4011
+    status: "complete"
+  - chapter: 4
+    word_count: 4047
+    status: "complete"
+  - chapter: 5
+    word_count: 4124
+    status: "complete"
+  - chapter: 6
+    word_count: 4052
+    status: "complete"
+  - chapter: 7
+    word_count: 4080
+    status: "complete"
+  - chapter: 8
+    word_count: 4000
+    status: "complete"
+  - chapter: 9
+    word_count: 4057
+    status: "complete"
+  - chapter: 10
+    word_count: 4149
+    status: "complete"
+  - chapter: 11
+    word_count: 5271
+    status: "complete"
+  - chapter: 12
+    word_count: 4668
+    status: "complete"
+  - chapter: 13
+    word_count: 4805
+    status: "complete"
+  - chapter: 14
+    word_count: 4441
+    status: "complete"
+  - chapter: 15
+    word_count: 4797
+    status: "complete"
+  - chapter: 16
+    word_count: 4004
+    status: "complete"
+  - chapter: 17
+    word_count: 4127
+    status: "complete"
+  - chapter: 18
+    word_count: 4293
+    status: "complete"
+  - chapter: 19
+    word_count: 4119
+    status: "complete"
+  - chapter: 20
+    word_count: 4128
+    status: "complete"
+  - chapter: 21
+    word_count: 4436
+    status: "complete"
+  - chapter: 22
+    word_count: 4072
+    status: "complete"
+  - chapter: 23
+    word_count: 4347
+    status: "complete"
+  - chapter: 24
+    word_count: 4599
+    status: "complete"
+  - chapter: 25
+    word_count: 4531
+    status: "complete"
+  - chapter: 26
+    word_count: 4177
+    status: "complete"
+  - chapter: 27
+    word_count: 4258
+    status: "complete"
+  - chapter: 28
+    word_count: 4361
+    status: "complete"
+  - chapter: 29
+    word_count: 4257
+    status: "complete"
+  - chapter: 30
+    word_count: 4018
+    status: "complete"
+  - chapter: 31
+    word_count: 4249
+    status: "complete"
+  # ... chapters 2-50 follow same pattern
+
+totals:
+  current: 132839
+  target: 250000
+  remaining: 117161
+  percentage: 53.1
+
+pace:
+  average_per_chapter: 4285
+  estimated_completion: "TBD"
+
+last_updated: "2026-01-06"

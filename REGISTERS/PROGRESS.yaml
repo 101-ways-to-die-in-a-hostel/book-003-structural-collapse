@@ -1,0 +1,209 @@
+# Progress Tracker
+# Updated automatically by Writer Agent
+
+book:
+  number: "003"
+  slug: "structural-collapse"
+  title: "Structural Collapse: The Weight of History in Cartagena"
+  status: "DRAFTING"  # PLANNING | DRAFTING | REVISING | COMPLETE
+
+targets:
+  total_chapters: 50
+  total_words: 250000
+  words_per_chapter: 5000
+
+progress:
+  chapters_complete: 31
+  chapters_in_progress: 0
+  current_word_count: 132839
+  percentage: 53.1
+
+parts:
+  setup:
+    chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    status: "complete"
+    word_count: 40881
+  escalation:
+    chapters: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    status: "complete"
+    word_count: 44653
+  crisis:
+    chapters: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+    status: "complete"
+    word_count: 43056
+  climax:
+    chapters: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+    status: "in_progress"
+    word_count: 4249
+  aftermath:
+    chapters: [41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    status: "pending"
+    word_count: 0
+
+chapters:
+  - number: 1
+    title: "The Load-Bearing Smile"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4007
+    file: "chapters/part-1-setup/chapter-01.md"
+  - number: 2
+    title: "The Heritage Room"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4354
+    file: "chapters/part-1-setup/chapter-02.md"
+  - number: 3
+    title: "The Weight of Light"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4011
+    file: "chapters/part-1-setup/chapter-03.md"
+  - number: 4
+    title: "The Sound of Settling"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4047
+    file: "chapters/part-1-setup/chapter-04.md"
+  - number: 5
+    title: "The Courtesy of Gravity"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4124
+    file: "chapters/part-1-setup/chapter-05.md"
+  - number: 6
+    title: "The Quiet Between Storms"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4052
+    file: "chapters/part-1-setup/chapter-06.md"
+  - number: 7
+    title: "The Weather of Warnings"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4080
+    file: "chapters/part-1-setup/chapter-07.md"
+  - number: 8
+    title: "The Cost of Staying"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4000
+    file: "chapters/part-1-setup/chapter-08.md"
+  - number: 9
+    title: "The Architecture of Doubt"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4057
+    file: "chapters/part-1-setup/chapter-09.md"
+  - number: 10
+    title: "The First Hairline"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4149
+    file: "chapters/part-1-setup/chapter-10.md"
+  - number: 11
+    title: "The Widening"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 5271
+    file: "chapters/part-2-escalation/chapter-11.md"
+  - number: 12
+    title: "The Softening"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4668
+    file: "chapters/part-2-escalation/chapter-12.md"
+  - number: 13
+    title: "The Temporary"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4805
+    file: "chapters/part-2-escalation/chapter-13.md"
+  - number: 14
+    title: "The Reopening"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4441
+    file: "chapters/part-2-escalation/chapter-14.md"
+  - number: 15
+    title: "The Jam"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4797
+    file: "chapters/part-2-escalation/chapter-15.md"
+  - number: 16
+    title: "The Return"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4004
+    file: "chapters/part-2-escalation/chapter-16.md"
+  - number: 17
+    title: "The Vigil"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4127
+    file: "chapters/part-2-escalation/chapter-17.md"
+  - number: 18
+    title: "The Weight of Water"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4293
+    file: "chapters/part-2-escalation/chapter-18.md"
+  - number: 19
+    title: "The False Calm"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4119
+    file: "chapters/part-2-escalation/chapter-19.md"
+  - number: 20
+    title: "The Loudest Warning"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4128
+    file: "chapters/part-2-escalation/chapter-20.md"
+  - number: 21
+    title: "The First Real Problem"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4436
+    file: "chapters/part-3-crisis/chapter-21.md"
+  - number: 22
+    title: "The Door's Vote"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4072
+    file: "chapters/part-3-crisis/chapter-22.md"
+  - number: 23
+    title: "The Blackout Story"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4347
+    file: "chapters/part-3-crisis/chapter-23.md"
+  - number: 24
+    title: "The Weight of Air"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4599
+    file: "chapters/part-3-crisis/chapter-24.md"
+  - number: 25
+    title: "The Things That Hold"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4531
+    file: "chapters/part-3-crisis/chapter-25.md"
+  - number: 26
+    title: "The Splintering"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4177
+    file: "chapters/part-3-crisis/chapter-26.md"
+  - number: 27
+    title: "The Holding Pattern"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4258
+    file: "chapters/part-3-crisis/chapter-27.md"
+  - number: 28
+    title: "The Borrowed Minutes"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4361
+    file: "chapters/part-3-crisis/chapter-28.md"
+  - number: 29
+    title: "The Failing Angle"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4257
+    file: "chapters/part-3-crisis/chapter-29.md"
+  - number: 30
+    title: "The Last Door"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4018
+    file: "chapters/part-3-crisis/chapter-30.md"
+  - number: 31
+    title: "The Weight of Waiting"
+    status: "complete"  # pending | in_progress | complete
+    word_count: 4249
+    file: "chapters/part-4-climax/chapter-31.md"
+  # ... chapters 2-50 follow same pattern
+
+milestones:
+  canon_complete: false
+  outline_complete: false
+  draft_complete: false
+  revision_complete: false
+  publication_ready: false
+
+last_updated: "2026-01-06"
+updated_by: "system"

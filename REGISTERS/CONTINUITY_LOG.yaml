@@ -1,0 +1,129 @@
+# Continuity Log
+# Track character details, plot points, and foreshadowing for consistency
+
+book:
+  number: "003"
+  slug: "structural-collapse"
+  victim: "Emma Lucinda Hartwell"
+
+characters:
+  primary_victim:
+    name: "Emma Lucinda Hartwell"
+    introduced_chapter: 2
+    key_traits: ["naive", "romanticizes authenticity", "overly articulate", "status-conscious"]
+    arc_notes: ["fixated on 'historic' spaces", "dismisses safety cues in favor of story value"]
+
+  secondary_characters: []
+    # - name: "Character Name"
+    #   role: "role in story"
+    #   introduced_chapter: X
+    #   fate: "integrated/survives/dies"
+    #   notes: []
+
+  staff_integrated:
+    - name: "Carlos Mendoza"
+      role: "Receptionist"
+      revealed_chapter: 2
+    - name: "Marta"
+      role: "Cleaner"
+      revealed_chapter: 2
+    # - name: "Staff Name"
+    #   role: "Receptionist"
+    #   revealed_chapter: X
+
+  @hostelreaper:
+    mentions: []
+    # - chapter: X
+    #   context: "what was mentioned"
+
+timeline:
+  day_1:
+    - chapter: 2
+      time: "Afternoon"
+      event: "Emma arrives in Cartagena, checks into Casa Colonial Los Muertos, insists on Heritage Room"
+    - chapter: 2
+      time: "Evening"
+      event: "Explores city, settles into room, calls her mother from courtyard"
+    # - chapter: 1
+    #   time: "Morning"
+    #   event: "Arrival"
+  # day_2, day_3, etc.
+
+foreshadowing:
+  planted:
+    - element: "Ceiling beam sags slightly in Room Historia"
+      chapter_planted: 2
+      chapter_payoff: 38
+      status: "planted"
+    - element: "Room Historia note: closed for a while before reopening"
+      chapter_planted: 2
+      chapter_payoff: 38
+      status: "planted"
+    - element: "Gecko falls from ceiling"
+      chapter_planted: 2
+      chapter_payoff: 38
+      status: "planted"
+    - element: "Wood groans during brief rain shower"
+      chapter_planted: 2
+      chapter_payoff: 38
+      status: "planted"
+    # - element: "Strange warmth in walls"
+    #   chapter_planted: 2
+    #   chapter_payoff: 38
+    #   status: "planted"  # planted | paid_off
+
+  red_herrings: []
+    # - element: "Suspicious backpacker"
+    #   chapter: 5
+    #   resolved: 12
+
+death_progression:
+  warning_signs:
+    - chapter: 2
+      type: "subtle"
+      element: "Sagging beam and chalky plaster dust in heritage wing"
+      victim_rationalization: "Old buildings shed and move"
+    - chapter: 28
+      type: "explicit"
+      element: "Partial collapse elsewhere in heritage wing; beam splitting and ceiling shedding plaster"
+      victim_rationalization: "None; recognizes imminent failure but is trapped"
+    # - chapter: X
+    #   type: "subtle/obvious/explicit"
+    #   element: "description"
+    #   victim_rationalization: "how they dismiss it"
+
+locations_used:
+  - location: "Reception"
+    chapters: [2]
+  - location: "Victim's Room"
+    chapters: [2]
+  - location: "Heritage Wing Hallway"
+    chapters: [2]
+  - location: "Courtyard"
+    chapters: [2]
+  - location: "City Streets"
+    chapters: [2]
+  # etc.
+
+objects:
+  significant_items:
+    - item: "Heritage wing waiver"
+      introduced: 2
+      significance: "Signed without reading, underscores naivete"
+      last_mentioned: 28
+    - item: "Room key labeled HISTORIA"
+      introduced: 2
+      significance: "Symbol of her choice for authenticity"
+      last_mentioned: 2
+    # - item: "Password Card"
+    #   introduced: 3
+    #   significance: "Contains incantation"
+    #   last_mentioned: 38
+
+notes:
+  - chapter: 2
+    note: "Continuity conflict: Chapter 01 centers on Mara Patel at The Loom House in San Loreto, which conflicts with book canon (Emma Hartwell in Cartagena). Proceeding with canon per instructions."
+  # - chapter: X
+  #   note: "Need to reference this later"
+
+last_updated: "2026-01-06"
